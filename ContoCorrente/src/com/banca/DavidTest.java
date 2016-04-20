@@ -6,6 +6,7 @@ public class DavidTest {
 		
 		System.out.println("30K");
 		System.out.println("800K");
+		System.out.println("40K");
 		
 	}
 
